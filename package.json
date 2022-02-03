@@ -1,0 +1,20 @@
+{
+    "nombre" : " MerleYuridia " ,
+    "versión" : " 1.0.0 " ,
+    "descripción" : " Hola Mundo JavaScript " ,
+    "principal" : " index.js " ,
+    "guiones" : {
+      "prueba" : " echo \" Error: no se especificó ninguna prueba \" && exit 1 "
+    },
+    "repositorio" : {
+      "tipo" : " git " ,
+      "url" : " git+https://github.com/MerleYuridia/Ejercicios_JavaScript.git "
+    },
+    "palabras clave" : [ " JavaScript " ,  " HolaMundo "   ],
+    "autor" : " Merle Meza " ,
+    "licencia" : " MIT " ,
+    "errores" : {
+      "url" : " git+https://github.com/MerleYuridia/Ejercicios_JavaScript.git/issues "
+    },
+    "homepage" : " git+https://github.com/MerleYuridia/Ejercicios_JavaScript.git#readme "
+  }
